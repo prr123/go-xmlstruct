@@ -9,7 +9,8 @@ import (
 
 	"github.com/spf13/pflag"
 
-	"github.com/twpayne/go-xmlstruct"
+//	"github.com/twpayne/go-xmlstruct"
+	"github.com/prr123/go-xmlstruct"
 )
 
 var (
