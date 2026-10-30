@@ -10,7 +10,8 @@ import (
 
 	"github.com/alecthomas/assert/v2"
 
-	"github.com/twpayne/go-xmlstruct"
+//	"github.com/twpayne/go-xmlstruct"
+	"github.com/prr123/go-xmlstruct"
 )
 
 func TestGML(t *testing.T) {
