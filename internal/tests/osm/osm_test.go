@@ -7,7 +7,8 @@ import (
 
 	"github.com/alecthomas/assert/v2"
 
-	"github.com/twpayne/go-xmlstruct"
+	"github.com/prr123/go-xmlstruct"
+//	"github.com/twpayne/go-xmlstruct"
 )
 
 func TestOSM(t *testing.T) {
