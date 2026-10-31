@@ -10,8 +10,10 @@ import (
 
 	"github.com/alecthomas/assert/v2"
 
-	"github.com/twpayne/go-xmlstruct"
-	"github.com/twpayne/go-xmlstruct/internal/tests/jmdict"
+	"github.com/prr123/go-xmlstruct"
+	"github.com/prr123/go-xmlstruct/internal/tests/jmdict"
+//	"github.com/twpayne/go-xmlstruct"
+//	"github.com/twpayne/go-xmlstruct/internal/tests/jmdict"
 )
 
 func TestJMDict(t *testing.T) {
