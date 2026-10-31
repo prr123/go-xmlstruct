@@ -7,8 +7,10 @@ import (
 
 	"github.com/alecthomas/assert/v2"
 
-	"github.com/twpayne/go-xmlstruct"
-	"github.com/twpayne/go-xmlstruct/internal/tests/rss"
+	"github.com/prr123/go-xmlstruct"
+	"github.com/prr123/go-xmlstruct/internal/tests/rss"
+//	"github.com/twpayne/go-xmlstruct"
+//	"github.com/twpayne/go-xmlstruct/internal/tests/rss"
 )
 
 func TestPlay(t *testing.T) {
