@@ -7,8 +7,10 @@ import (
 
 	"github.com/alecthomas/assert/v2"
 
-	"github.com/twpayne/go-xmlstruct"
-	"github.com/twpayne/go-xmlstruct/internal/tests/interlis"
+	"github.com/prr123/go-xmlstruct"
+	"github.com/prr123/go-xmlstruct/internal/tests/interlis"
+//	"github.com/twpayne/go-xmlstruct"
+//	"github.com/twpayne/go-xmlstruct/internal/tests/interlis"
 )
 
 func TestInterlis(t *testing.T) {
