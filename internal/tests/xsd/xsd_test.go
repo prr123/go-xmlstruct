@@ -9,8 +9,10 @@ import (
 	"github.com/alecthomas/assert/v2"
 	"golang.org/x/net/html/charset"
 
-	"github.com/twpayne/go-xmlstruct"
-	"github.com/twpayne/go-xmlstruct/internal/tests/xsd"
+	"github.com/prr123/go-xmlstruct"
+	"github.com/prr123/go-xmlstruct/internal/tests/xsd"
+//	"github.com/twpayne/go-xmlstruct"
+//	"github.com/twpayne/go-xmlstruct/internal/tests/xsd"
 )
 
 func TestXSD(t *testing.T) {
